@@ -43,3 +43,21 @@ Para crear un proyecto seguimos los siguientes pasos:
 `{ python manage.py runserver }`
 
 ![alt text](https://github.com/edisao/tarea02/blob/main/images/imagen-8.png?raw=true)
+
+# Sitio del usuario final
+
+![alt text](https://github.com/edisao/tarea02/blob/main/images/imagen-9.png?raw=true)
+
+# Sitio del Administrador
+
+![alt text](https://github.com/edisao/tarea02/blob/main/images/imagen-10.png?raw=true)
+
+# Prueba de concepto
+
+## Administración
+
+![alt text](https://github.com/edisao/tarea02/blob/main/images/imagen-11.png?raw=true)
+
+## Sitio del usuario final
+
+![alt text](https://github.com/edisao/tarea02/blob/main/images/imagen-12.png?raw=true)
